@@ -7,7 +7,7 @@ PROJECT CREATED BY :
 LOGIN DETAILS:
 
 
-UNAME: admin
+UNAME: admin26
 
 
 Password:admin
